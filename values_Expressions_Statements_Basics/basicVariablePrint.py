@@ -1,0 +1,11 @@
+a = 'All'
+b = 'work'
+c = 'no'
+d = 'play'
+e = 'makes'
+f = 'Jack'
+g = 'a'
+h = 'dull'
+i = 'boy'
+j = '.'
+print(a, b, c, d, e, f, g, h, i + j )

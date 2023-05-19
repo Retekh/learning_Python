@@ -1,0 +1,5 @@
+a = type('5')
+b = type(5)
+c = type('eat')
+d = type(5.18)
+print('Love\n', a, '\n', b,'\n', c, '\n', d)
